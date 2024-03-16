@@ -1,0 +1,8 @@
+# ninja log v5
+3	397	7323069221637028	CMakeFiles/untitled5.dir/main.cpp.obj	324d4cd0a23bb462
+398	516	7323069222771391	untitled5.exe	b57f88b4507af2d6
+4	257	7323082640516665	build.ninja	e4cdf4b05b042fe6
+1	456	7323082646388499	CMakeFiles/untitled5.dir/Ordenamiento_de_numeros.cpp.obj	d90899666ed375c7
+456	572	7323082647516578	untitled5.exe	5540fbcb321ec1f3
+5	544	7323099399258714	CMakeFiles/untitled5.dir/Ordenamiento_de_numeros.cpp.obj	d90899666ed375c7
+545	662	7323099400388015	untitled5.exe	5540fbcb321ec1f3
